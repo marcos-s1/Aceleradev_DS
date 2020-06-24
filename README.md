@@ -13,6 +13,13 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 Este repositório conterá todos os projetos e demais conteúdos que serão desenvolvidos durante
 a capacitação, além de registrar minha constante evolução durante o projeto.
 
+### Como funciona?
+
+Inscreva-se no AceleraDev de sua preferência, realize o desafio de seleção e atinja o desempenho mínimo para passar à etapa de entrevistas. 100% do processo é gratuito - da inscrição à conexão com as empresas, sem pegadinhas.
+
+### Quem pode participar?
+Pessoas interessadas em aprender e trabalhar com as tecnologias abordadas pelos programas e com aptidão para atuar no mercado de tecnologia. São contempladas pessoas formadas e estudantes na área de ciências exatas ou demais pessoas que já tenham tido contato prévio com a área de desenvolvimento.
+
 ### Referências
 
 - https://www.codenation.dev/
@@ -23,7 +30,7 @@ a capacitação, além de registrar minha constante evolução durante o projeto
 
 - [x] **Módulo 01 - disponibilizado em: 09/06/2020**
 - [x] **Módulo 02 - disponibilizado em: 15/06/2020**
-- [ ] Módulo 03 - disponibilizado em: 22/06/2020
+- [x] **Módulo 03 - disponibilizado em: 22/06/2020**
 - [ ] Módulo 04 - disponibilizado em: 29/06/2020
 - [ ] Módulo 05 - disponibilizado em: 06/07/2020
 - [ ] Módulo 06 - disponibilizado em: 13/07/2020
